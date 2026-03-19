@@ -26,5 +26,3 @@ This project analyzes retail transaction data to identify revenue drivers, segme
 ## Report
 See full report in PDF.
 
-## Author
-Hugo — Business Analytics (Kaplan)
